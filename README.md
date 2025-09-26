@@ -4,8 +4,7 @@ Here are the screenshots of the projects
 <h3>ShopZone(Amazon) Homepage</h3>
 <img src="Screenshot 2025-09-26 100242.png" alt="ShopZone Homepage" width="600"/>
 <h3>Samsung</h3>
-<img src="Screenshot 2025-09-26 100254.png" alt="Samsung" width="600"/>
-<h3>Apple</h3>
+<img src="Screenshot 2025-09-26 131428.png" alt="Samsung" width="600"/>
 <img src="Screenshot 2025-09-26 100326.png" alt="Apple" width="600"/>
 <h3>Postman Dashboard</h3>
 <img src="Screenshot 2025-09-26 100602.png" alt="Postman Dashboard" width="600"/>
