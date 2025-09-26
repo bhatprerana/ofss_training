@@ -1,7 +1,7 @@
 # 🧠 Multi-Module Web Application
 
 This project is a comprehensive Java-based web application that demonstrates enterprise-level architecture using microservices, RESTful APIs, and dynamic front-end interfaces. It simulates a real-world e-commerce and banking ecosystem with modular components for service discovery, user interaction, and transaction management.
-
+Additionally, a **Banking Application (with JDBC)** is included, which connects to a database for basic banking operations.
 ---
 
 ## 📸 Screenshots & Descriptions
