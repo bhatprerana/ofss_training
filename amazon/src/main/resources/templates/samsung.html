@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Samsung Products - ShopClone</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #f2f2f2; }
+    .header { background: #232f3e; color: white; padding: 15px; }
+    .header a { color: white; text-decoration: none; margin-right: 15px; }
+    .container { margin: 20px; }
+    .products { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px; }
+    .product { background: white; padding: 15px; text-align: center; box-shadow: 0 0 5px rgba(0,0,0,0.1); }
+    .product img { width: 100%; height: 150px; object-fit: cover; margin-bottom: 10px; }
+    .product h4 { margin: 10px 0 5px; }
+    .footer { background: #232f3e; color: white; text-align: center; padding: 20px; margin-top: 30px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <a href="index.html">🏠 Home</a> | Samsung Store
+  </div>
+  <h1>Welcome to Samsung Products</h1>
+    <h1 th:text= "${samsung}"></h1>
+  </div>
+  <div class="footer">
+    <p>© 2025 ShopClone. All rights reserved.</p>
+  </div>
+</body>
+</html>
