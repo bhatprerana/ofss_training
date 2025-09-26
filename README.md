@@ -14,14 +14,14 @@ Displays the service registry using Netflix Eureka. All microservices are regist
 ---
 
 ### 🛒 ShopZone (Amazon-style Homepage)
-A sleek front-end interface mimicking an e-commerce homepage. Users can browse products, view categories, and initiate purchases.
+A sleek front-end interface mimicking an e-commerce homepage. 
 
 <img src="Screenshot%202025-09-26%20100242.png" alt="ShopZone Homepage" width="600"/>
 
 ---
 
 ### 📱 Samsung Product Page
-A product-specific view showcasing Samsung items with detailed specs, pricing, and purchase options.
+A product-specific view showcasing Samsung items with detailed specs, pricing.
 
 <img src="Screenshot%202025-09-26%20131428.png" alt="Samsung" width="600"/>
 
@@ -65,15 +65,3 @@ Confirms a successful deposit and displays the updated account balance.
 - **GitHub** – Version control
 
 ---
-
-## 📂 Project Structure
-
-- `eureka-server/` – Service registry
-- `shopzone-ui/` – Front-end for e-commerce
-- `product-service/` – Microservice for product data
-- `banking-app/` – Console-based banking system
-- `api-tests/` – Postman collection for endpoint validation
-
----
-
-Feel free to explore the code, run the services, and test the APIs. Contributions and feedback are welcome!
